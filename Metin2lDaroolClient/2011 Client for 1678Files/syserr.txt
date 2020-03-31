@@ -1,0 +1,141 @@
+0331 13:54:01365 :: UNKNOWN IME[2070]
+
+0331 13:54:04009 :: Traceback (most recent call last):
+
+0331 13:54:04009 ::   File "ui.py", line 618, in OnSetFocus
+
+0331 13:54:04009 :: AttributeError
+0331 13:54:04009 :: : 
+0331 13:54:04009 :: 'module' object has no attribute 'EnableCaptureInput'
+0331 13:54:04009 :: 
+
+0331 13:54:04997 :: Traceback (most recent call last):
+
+0331 13:54:04997 ::   File "ui.py", line 629, in OnKillFocus
+
+0331 13:54:04997 :: AttributeError
+0331 13:54:04997 :: : 
+0331 13:54:04997 :: 'module' object has no attribute 'DisableIME'
+0331 13:54:04997 :: 
+
+0331 13:54:04997 :: Traceback (most recent call last):
+
+0331 13:54:04997 ::   File "ui.py", line 618, in OnSetFocus
+
+0331 13:54:04997 :: AttributeError
+0331 13:54:04997 :: : 
+0331 13:54:04997 :: 'module' object has no attribute 'EnableCaptureInput'
+0331 13:54:04997 :: 
+
+0331 13:54:06665 :: Traceback (most recent call last):
+
+0331 13:54:06665 ::   File "ui.py", line 629, in OnKillFocus
+
+0331 13:54:06665 :: AttributeError
+0331 13:54:06665 :: : 
+0331 13:54:06665 :: 'module' object has no attribute 'DisableIME'
+0331 13:54:06665 :: 
+
+0331 13:54:07276 :: Traceback (most recent call last):
+
+0331 13:54:07276 ::   File "ui.py", line 618, in OnSetFocus
+
+0331 13:54:07276 :: AttributeError
+0331 13:54:07276 :: : 
+0331 13:54:07276 :: 'module' object has no attribute 'EnableCaptureInput'
+0331 13:54:07276 :: 
+
+0331 13:54:07276 :: Traceback (most recent call last):
+
+0331 13:54:07276 ::   File "ui.py", line 629, in OnKillFocus
+
+0331 13:54:07276 :: AttributeError
+0331 13:54:07276 :: : 
+0331 13:54:07276 :: 'module' object has no attribute 'DisableIME'
+0331 13:54:07276 :: 
+
+0331 13:54:07276 :: Traceback (most recent call last):
+
+0331 13:54:07276 ::   File "ui.py", line 618, in OnSetFocus
+
+0331 13:54:07276 :: AttributeError
+0331 13:54:07276 :: : 
+0331 13:54:07276 :: 'module' object has no attribute 'EnableCaptureInput'
+0331 13:54:07276 :: 
+
+0331 13:54:07276 :: Traceback (most recent call last):
+
+0331 13:54:07276 ::   File "ui.py", line 629, in OnKillFocus
+
+0331 13:54:07276 :: AttributeError
+0331 13:54:07276 :: : 
+0331 13:54:07276 :: 'module' object has no attribute 'DisableIME'
+0331 13:54:07276 :: 
+
+0331 13:54:07557 :: Traceback (most recent call last):
+
+0331 13:54:07557 ::   File "ui.py", line 618, in OnSetFocus
+
+0331 13:54:07557 :: AttributeError
+0331 13:54:07557 :: : 
+0331 13:54:07557 :: 'module' object has no attribute 'EnableCaptureInput'
+0331 13:54:07557 :: 
+
+0331 13:54:07557 :: Traceback (most recent call last):
+
+0331 13:54:07557 ::   File "ui.py", line 629, in OnKillFocus
+
+0331 13:54:07557 :: AttributeError
+0331 13:54:07557 :: : 
+0331 13:54:07557 :: 'module' object has no attribute 'DisableIME'
+0331 13:54:07557 :: 
+
+0331 13:54:08267 :: Traceback (most recent call last):
+
+0331 13:54:08267 ::   File "ui.py", line 618, in OnSetFocus
+
+0331 13:54:08267 :: AttributeError
+0331 13:54:08267 :: : 
+0331 13:54:08267 :: 'module' object has no attribute 'EnableCaptureInput'
+0331 13:54:08267 :: 
+
+0331 13:54:08392 :: CEffectManager::RegisterEffect - LoadScript(d:/ymir work/effect/hit/percent_damage1.mse) Error
+0331 13:54:08392 :: CInstanceBase::RegisterEffect(eEftType=264, c_szEftAttachBone=, c_szEftName=d:/ymir work/effect/hit/percent_damage1.mse, isCache=1) - Error
+0331 13:54:08392 :: CEffectManager::RegisterEffect - LoadScript(d:/ymir work/effect/hit/percent_damage2.mse) Error
+0331 13:54:08392 :: CInstanceBase::RegisterEffect(eEftType=265, c_szEftAttachBone=, c_szEftName=d:/ymir work/effect/hit/percent_damage2.mse, isCache=1) - Error
+0331 13:54:08392 :: CEffectManager::RegisterEffect - LoadScript(d:/ymir work/effect/hit/percent_damage3.mse) Error
+0331 13:54:08392 :: CInstanceBase::RegisterEffect(eEftType=266, c_szEftAttachBone=, c_szEftName=d:/ymir work/effect/hit/percent_damage3.mse, isCache=1) - Error
+0331 13:54:08711 :: invalid idx 0
+0331 13:54:14953 :: GRANNY: r:/granny/rt/granny_file_info.cpp(145): File has run-time type tag of 0x8000000f, which doesn't match this version of Granny (0x80000010).  Automatic conversion will be attempted.
+0331 13:54:15154 :: CEffectManager::RegisterEffect - LoadScript(D:/ymir work/pc/common/effect/armor/armor-4-2-1.mse) Error
+0331 13:54:15154 :: CInstanceBase::RegisterEffect(eEftType=248, c_szEftAttachBone=Bip01, c_szEftName=D:/ymir work/pc/common/effect/armor/armor-4-2-1.mse, isCache=0) - Error
+0331 13:54:15154 :: CEffectManager::RegisterEffect - LoadScript(D:/ymir work/pc/common/effect/armor/armor-4-2-2.mse) Error
+0331 13:54:15154 :: CInstanceBase::RegisterEffect(eEftType=249, c_szEftAttachBone=Bip01, c_szEftName=D:/ymir work/pc/common/effect/armor/armor-4-2-2.mse, isCache=0) - Error
+0331 13:55:18058 :: Traceback (most recent call last):
+
+0331 13:55:18058 ::   File "ui.py", line 618, in OnSetFocus
+
+0331 13:55:18058 :: AttributeError
+0331 13:55:18058 :: : 
+0331 13:55:18058 :: 'module' object has no attribute 'EnableCaptureInput'
+0331 13:55:18058 :: 
+
+0331 13:55:18157 :: Traceback (most recent call last):
+
+0331 13:55:18158 ::   File "ui.py", line 629, in OnKillFocus
+
+0331 13:55:18158 :: AttributeError
+0331 13:55:18158 :: : 
+0331 13:55:18158 :: 'module' object has no attribute 'DisableIME'
+0331 13:55:18158 :: 
+
+0331 13:57:31278 :: granny_shared_vbs:
+0331 13:57:31278 :: 	0: 40
+0331 13:57:31279 :: 	1: 147
+0331 13:57:31280 :: 	2: 20
+0331 13:57:31280 :: 	3: 40
+0331 13:57:31281 :: 	4: 1
+0331 13:57:31281 :: 	5: 20
+0331 13:57:31281 :: 	6: 1
+0331 13:57:31281 :: 	7: 0
+0331 13:57:31281 :: 	8: 0
